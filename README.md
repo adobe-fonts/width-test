@@ -10,7 +10,7 @@ Width Test (&#x5E45;&#x30C6;&#x30B9;&#x30C8; is its Japanese name) is a special-
 
 The image below shows the glyphs for CIDs 2 through 6 with registration marks:
 
-![alt text](https://raw.githubusercontent.com/adobe-fonts/width-test/master/resources/width-test.png "img-View")
+![alt text](https://raw.githubusercontent.com/adobe-fonts/width-test/master/resources/width-test.jpg "img-View")
 
 ## Font installation instructions
 
