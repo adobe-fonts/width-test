@@ -1,0 +1,7 @@
+[WidthTest-Regular]
+	f=3,1,0x411,\5E45\30C6\30B9\30C8
+	s=3,1,0x411,Regular
+	l=3,1,0x411,\5E45\30C6\30B9\30C8
+	f=Width Test
+	s=Regular
+	l=Width Test
