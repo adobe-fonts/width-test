@@ -2,7 +2,7 @@
 #
 # Version 2016-04-09
 
-makeotf -f cidfont.ps -ff features -fi cidfontinfo -mf FontMenuNameDB -r -cs 1 -ch UniWidthTest-UTF32-H
+makeotf -f cidfont.ps -omitMacNames -ff features -fi cidfontinfo -mf FontMenuNameDB -r -cs 1 -ch UniWidthTest-UTF32-H
 sfntedit -a DSIG=DSIG.bin WidthTest-Regular.otf
 sfntedit -f WidthTest-Regular.otf
 
