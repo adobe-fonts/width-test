@@ -64,9 +64,14 @@ end def
   <00000000> <0010FFFF>
 endcodespacerange
 
-2 begincidchar
+7 begincidchar
 <00000020> 1
 <00000030> 2
+<00000031> 3
+<00000032> 4
+<00000033> 5
+<00000034> 6
+<0000FF10> 3
 endcidchar
 
 endcmap
