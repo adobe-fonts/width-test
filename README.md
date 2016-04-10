@@ -8,6 +8,8 @@ Width Test (&#x5E45;&#x30C6;&#x30B9;&#x30C8; is its Japanese name) is a special-
 
 * CIDs 3 through 6 are full-, half-, third-, and quarter-width glyphs that are made up of black boxes that correspond to the denominator portion of their corresponding fractions, and the use of the 'fwid', 'hwid', 'twid', or 'qwid' GSUB features will substitute zero (U+0030) with the appropriate glyph.
 
+* In addition, one (U+0031) through four (U+0034) are mapped to CIDs 3 through 6 for the ease of creating reference test. The fullwidth form of zero (U+FF10) is also mapped to CID 3.
+
 The image below shows the glyphs for CIDs 2 through 6 with registration marks:
 
 ![alt text](https://raw.githubusercontent.com/adobe-fonts/width-test/master/resources/width-test.jpg "img-View")
