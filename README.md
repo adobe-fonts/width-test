@@ -6,7 +6,7 @@ Width Test (&#x5E45;&#x30C6;&#x30B9;&#x30C8; is its Japanese name) is a special-
 
 * CID+2 is the glyph for zero (U+0030) that was taken from the Regular weight of [Source Code Pro](https://github.com/adobe-fonts/source-code-pro/) and which has a 600-unit horizontal advance. This glyph serves as a default glyph whose horizontal advance can be considered proportional.
 
-* CIDs 3 through 6 are full-, half-, third-, and quarter-width glyphs that are made up of black boxes that correspond to the denominator portion of their corresponding fractions, and the use of the 'fwid', 'hwid', 'twid', or 'qwid' GSUB features will substitute zero (U+0030) with the appropriate glyph.
+* CIDs 3 through 6 are full-, half-, third-, and quarter-width glyphs that are made up of black boxes that correspond to the denominator portion of their width value when expressed as a fraction, and the use of the 'fwid', 'hwid', 'twid', or 'qwid' GSUB features will substitute zero (U+0030) with the appropriate glyph.
 
 * CIDs 3 through 6 are additionally mapped from one (U+0031) through four (U+0034) for the purpose of easing the creation of reference tests. CID+3 is also mapped from full-width zero (U+FF10).
 
